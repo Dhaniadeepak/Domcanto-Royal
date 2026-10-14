@@ -43,15 +43,6 @@ flowchart LR
     B --> S[Stripe]
 ```
 
-## Screenshots
-
-<!-- Add your screenshots to the /screenshots folder, then uncomment and edit the lines below -->
-<!--
-![Home](screenshots/home.png)
-![Vendor Dashboard](screenshots/vendor-dashboard.png)
-![Booking Flow](screenshots/booking.png)
--->
-
 ## My Contribution
 
 - Built the Vendor, User and Admin panels, including dashboards and permission handling
